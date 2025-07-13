@@ -41,7 +41,7 @@ product-review-api/
 ├── product_review_system/     # Django project folder
 │   |── settings.py
 |   |── urls.py
-├── reviews/                   # Django app for reviews
+├── reviews/                   # Django app 
 │   ├── models.py
 │   ├── views.py
 │   ├── serializers.py
