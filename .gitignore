@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+db.sqlite3
+*.log
+.env
+local_settings.py
+secret_key.txt
+
+# Django Migrations (ignore migration files except __init__.py)
+**/migrations/
+!*/migrations/__init__.py
+
+# Static & Media (collected/generated)
+static/
+media/
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editor Configs
+.vscode/
+.idea/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
