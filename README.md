@@ -109,7 +109,7 @@ Authorization: Token (your_token_here)
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/product-review-api.git
+git clone [https://github.com/yourusername/product-review-api.git](https://github.com/Ashifaachi/product-review-api)
 cd product-review-api
 ````
 
